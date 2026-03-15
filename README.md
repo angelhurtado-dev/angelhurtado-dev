@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola! Soy Ángel Hurtado 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Desarrollador+en+formación;Aprendiendo+Java+☕;Futuro+experto+en+Ciberseguridad+🛡️" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Desarrollador+en+formacion;Aprendiendo+Java;Futuro+experto+en+Ciberseguridad" alt="Typing SVG" />
 </p>
 
 ---
